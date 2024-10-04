@@ -1,0 +1,8 @@
+First          Middle         Last           State/Province
+Adam                          Smith          Washington
+Bert           Colton         Halloran       New Mexico
+Charles        Andrew         Gonzalez       San Jose
+Sherman                       Slate          San Jose
+Benjamin       Walter         Wick           Kentucky
+Inram                         Johnson        New Jersey
+Russ                          James          Idaho
